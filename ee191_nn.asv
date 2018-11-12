@@ -1,0 +1,11 @@
+%initialize values
+x1 = .05;
+x2 = .1;
+y1 = .01;
+y2 = .99;
+
+%initial weights
+w1 = [,]
+
+
+
